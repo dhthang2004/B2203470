@@ -41,4 +41,3 @@
 
 Để cài đặt và chạy dự án trên máy của bạn, làm theo các bước sau:
 
-### B
